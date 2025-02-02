@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+Learning New things by experimenting and creating real time application
 
 ## Getting Started
 
